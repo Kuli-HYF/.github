@@ -1,4 +1,4 @@
-# Contributor's to Kuli's Webpage ~ Code of Conduct
+# Code of conduct to Kuli's Webpage ~ Code of Conduct
 
 ## My Pledge
 
