@@ -1,6 +1,7 @@
 # Kuli
 
-Welcome to Kuli. We are a team of young developers trying to graduate from HYF.
+Kuli makes it easy for women and underrepresented groups to
+find and connect with the local companies.
 
 ## We are
 
@@ -10,4 +11,3 @@ Welcome to Kuli. We are a team of young developers trying to graduate from HYF.
 - @HansMbua
 
 We are part of HYF Antwerp and we work in collaboration with Bridges
-
