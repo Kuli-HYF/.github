@@ -1,7 +1,7 @@
 # Kuli
 
 Kuli makes it easy for women and underrepresented groups to
-find and connect with the local companies.
+find and connect with local companies.
 
 ## We are
 
